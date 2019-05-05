@@ -1,0 +1,6 @@
+baseURL = "https://beadle.github.io/"
+languageCode = "zh-CN"
+title = "Beadle's Blog"
+
+theme = "hyde"
+publishDir = "publish"
